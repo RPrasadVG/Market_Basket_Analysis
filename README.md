@@ -16,7 +16,6 @@ Market Basket Analysis is a data mining technique used in retail to understand p
 - **Jupyter Notebook**
 - **Pandas** – data manipulation
 - **Mlxtend** – Apriori and association rule mining
-- **Matplotlib / Seaborn** – visualization
 
 ---
 
