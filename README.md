@@ -23,7 +23,6 @@ Market Basket Analysis is a data mining technique used in retail to understand p
 ## 📁 Files
 
 - `Market Basket Analysis.ipynb` — Main Jupyter Notebook containing all analysis and visualization.
-- `requirements.txt` — List of libraries used.
 
 ---
 
