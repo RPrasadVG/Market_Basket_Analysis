@@ -37,7 +37,7 @@ Market Basket Analysis is a data mining technique used in retail to understand p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Market_Basket_Analysis.git
+   git clone https://github.com/RPrasadVG/Market_Basket_Analysis.git
    cd Market_Basket_Analysis
 
 2. Run the Jupyter Notebook:
